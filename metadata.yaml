@@ -1,0 +1,126 @@
+_repo: Library-of-the-World-s-Best-Mystery-and-Detective-Stories_12758
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Voltaire
+    aliases:
+    - Arouet, Francois Marie
+    - Arouet, François Marie
+    birthdate: 1694
+    deathdate: 1778
+    gutenberg_agent_id: '913'
+    url: http://www.gutenberg.org/2009/agents/913
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Voltaire
+    - http://fr.wikipedia.org/wiki/Voltaire
+  - agent_name: Pliny, the Younger
+    aliases:
+    - Plinius, Caius, Secundus
+    - Plinius Caecilius Secundus, Caius
+    birthdate: 61
+    gutenberg_agent_id: '1036'
+    url: http://www.gutenberg.org/2009/agents/1036
+    wikipedia: http://en.wikipedia.org/wiki/Pliny_the_Younger
+  - agent_name: Erckmann-Chatrian
+    gutenberg_agent_id: '2680'
+    url: http://www.gutenberg.org/2009/agents/2680
+    wikipedia: http://en.wikipedia.org/wiki/Erckmann-Chatrian
+  - agent_name: Alarcón, Pedro Antonio de
+    aliases:
+    - Ariza, Pedro Antonio de Alarcón y
+    - De Alarcón, Pedro Antonio
+    - Alarcon, Pedro Antonio de
+    birthdate: 1833
+    deathdate: 1891
+    gutenberg_agent_id: '6108'
+    url: http://www.gutenberg.org/2009/agents/6108
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Pedro_Antonio_de_Alarcón
+    - http://en.wikipedia.org/wiki/Pedro_Antonio_de_Alarcón
+  - agent_name: Villiers de L'Isle-Adam, Auguste, comte de
+    aliases:
+    - Isle-Adam, Auguste Villiers de L', comte de
+    - De L'Isle-Adam, Auguste Villiers, comte de
+    - Villiers de L'Isle-Adam, Philippe-Auguste-Mathias, comte de
+    - Villiers de L'Isle-Adam, Jean Marie Mathias Philippe Auguste, comte de
+    - L'Isle-Adam, Auguste Villiers de, comte de
+    birthdate: 1838
+    deathdate: 1889
+    gutenberg_agent_id: '6262'
+    url: http://www.gutenberg.org/2009/agents/6262
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Auguste_Villiers_de_l%27Isle-Adam
+    - http://en.wikipedia.org/wiki/Auguste_Villiers_de_l%27Isle-Adam
+  - agent_name: Capuana, Luigi
+    birthdate: 1839
+    deathdate: 1915
+    gutenberg_agent_id: '2402'
+    url: http://www.gutenberg.org/2009/agents/2402
+    wikipedia: http://it.wikipedia.org/wiki/Luigi_Capuana
+  - agent_name: Mille, Pierre
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '6263'
+    url: http://www.gutenberg.org/2009/agents/6263
+  - agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: &id001 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+  - agent_name: Apuleius
+    aliases:
+    - Apuleius, Lucius
+    - Apuleius Platonicus Madaurensis
+    gutenberg_agent_id: '685'
+    url: http://www.gutenberg.org/2009/agents/685
+    wikipedia: http://en.wikipedia.org/wiki/Apuleius
+  - agent_name: Balzac, Honoré de
+    aliases:
+    - De Balzac, Honoré
+    - Saint-Aubin, Horace de
+    - Balzac, H. de (Honoré de)
+    - Balzac, Honore de
+    birthdate: 1799
+    deathdate: *id001
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+creator:
+  editor:
+    agent_name: Hawthorne, Julian
+    birthdate: 1846
+    deathdate: 1934
+    gutenberg_agent_id: '675'
+    url: http://www.gutenberg.org/2009/agents/675
+    wikipedia: http://en.wikipedia.org/wiki/Julian_Hawthorne
+description: ''
+gutenberg_bookshelf:
+- Opera
+- Classical Antiquity
+- Short Stories
+gutenberg_issued: '2004-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12758'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Detective and mystery stories'
+- GITenberg
+tableOfContents: 'MAUPASSANT: The Necklace; The Man with the Pale Eyes; An Uncomfortable
+  Bed; Ghosts; Fear; The Confession; The Horla -- MILLE: The Miracle of Zobéide --
+  ADAM: The Torture by Hope -- ERCKMANN-CHATRIAN: The Owl''s Ear; The Invisible Eye;
+  The Waters of Death -- BALZAC: Melmoth Reconciled; The Conscript -- VOLTAIRE: Zadig
+  the Babylonian -- ALARÇON: The Nail -- CAPUANA: The Deposition -- APULEIUS: The
+  Adventure of the Three Robbers -- PLINY: Letter to Sura.'
+title: Library of the World's Best Mystery and Detective Stories
+url: http://www.gutenberg.org/ebooks/12758
